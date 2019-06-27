@@ -1,0 +1,12 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Katalog Film &amp; Acara TV</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Acara TV</string>
+    <string name="change_language_settings">Pengaturan Ganti Bahasa</string>
+    <string name="favorite_string">Disukai</string>
+
+    <string name="title_fav">Disukai</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
